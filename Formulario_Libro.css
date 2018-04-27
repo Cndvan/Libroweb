@@ -1,11 +1,24 @@
 html {
-    background:#f4bebe ;
-   
+    
+   background:#f4bebe
 }
-body{
-}
+
 strong{
     color:blue;
     font-weight: bold;
     
+}
+label {
+    font-weight:lighter;
+    color: darkblue;
+    font-size: 20px;
+}
+legend{
+    font-family: cursive;
+    font-size: 40px;
+    border-left-color: black;
+    
+}
+form{
+    background:#cecccc ; 
 }
